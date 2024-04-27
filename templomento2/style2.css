@@ -1,0 +1,243 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.evvel{
+    width: 100%;
+    height: 160vh;
+    background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-01.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.ilk{
+    color: rgb(88, 88, 88);
+    background-color: rgba(240, 248, 255, 0);
+    width: 250px;
+    height: 100px;
+}
+.qutu{
+    width: 300px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    margin-left: 600px;
+    margin-bottom: 140px;
+    font-size: 30px;
+    font-weight: 200;
+    padding-top: 60px;
+}
+.ikinci{
+    width: 550px;
+    height: 550px;
+    margin-left: 250px;
+    background-color: white;
+    color: rgb(65, 65, 65);
+}
+.basliq{
+    padding-top: 40px;
+    color: rgb(60, 156, 60);
+    font-size: 45px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    font-weight: 100;
+}
+.para1{
+    padding-bottom: 30px;
+    font-size: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.para2{
+   font-size: 25px;
+   padding-left: 40px;
+   padding-bottom: 70px;
+   padding-right: 40px;
+}
+.btn{
+    width: 150px;
+    height: 70px;
+    margin-left: 350px;
+    background-color: rgb(105, 10, 10);
+    color: white;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn:hover{
+    background-color:rgb(204, 9, 9);
+}
+.esas{
+    width: 100%;
+    height: 130vh;
+    background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-02.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.esas1{
+  width: 40%;
+  height: 130vh;
+  background-color: rgba(255, 255, 255, 0.236);
+  margin-left: 780px;
+}
+.basliq2{
+  padding-left: 40px;
+  padding-top: 140px;
+  font-size: 45px;
+  font-weight: 100;
+  padding-left: 30px;
+  color:rgb(62, 180, 227);
+}
+.para3{
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 25px;
+    font-weight: 100;
+    color: gray;
+}
+.para4{
+    font-size: 20px;
+    padding-top: 30px;
+}
+.fa-4x{
+  font-size: 6em;
+  padding-left: 30px;
+  color: gray;
+}
+.ilk_hisse{
+    flex-wrap: wrap;
+}
+.evvelinci{
+    display: flex;
+    gap: 30px;
+    padding-top: 50px;
+    color: rgb(88, 88, 88);
+    padding-right: 40px;
+}
+.fa-3x{
+    font-size: 6em;
+  padding-left: 30px;
+  color: gray;
+  padding-bottom: 40px;
+}
+.btn{
+    color: wheat;
+    background-color: #983333;
+}
+.orta_axir{
+    width: 100%;
+    height: 140vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-03.jpg);
+}
+.son{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 140vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image:url(https://templatemo.com/templates/templatemo_504_page_one/img/bg-04.jpg);
+}
+.hisse{
+    height: 140vh;
+    width: 40%;
+    background-color: rgba(255, 255, 255, 0.137);
+    margin-left: 250px;
+}
+h2{
+    color: rgb(123, 3, 3);
+    font-weight: 100;
+    font-size: 40px;
+    margin-left: 60px;
+    padding-top: 150px;
+}
+.yazilar2{
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 20px;
+    color: gray;
+    line-height: 35px;
+    padding-top: 20px;
+}
+.input1{
+    padding-top: 30px;
+    padding-left: 60px;
+}
+.input2{
+    padding-top: 30px;
+    padding-left: 60px;
+}
+.input3{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.btn1{
+    margin-left: 430px;
+    margin-top: 40px;
+    width: 130px;
+    height: 60px;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(149, 7, 7);
+}
+.sonluq2{
+  padding-top: 132vh;
+  padding-right:40px ;
+  color: white;
+  font-size: 23px;
+  font-weight: 100;
+}
+.orta_ust{
+    color: rgb(99, 98, 98);
+    font-size: 35px;
+    padding-left: 260px;
+    font-weight: 100;
+}
+.btn2{
+    background-color: #666666;
+    color: white;
+    border: none;
+    width: 120px;
+    height: 50px;
+   margin-left: 260px;
+   font-size: 22px;
+}
+.btn3{
+    border: none;
+    width: 120px;
+    height: 50px; 
+    font-size: 22px;
+}
+.btn4{
+    border: none;
+    width: 120px;
+    height: 50px;
+    font-size: 22px;
+}
+.btn5{
+    border: none;
+    width: 120px;
+    height: 50px;
+    font-size: 22px;
+}
+.butonlar{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+.orta_alt{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 30px;
+    margin-left: 260px;
+}
+img{
+  width: 260px;
+  height: 170px;
+}
